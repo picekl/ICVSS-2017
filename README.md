@@ -11,13 +11,24 @@ Vladlen Koltun             | Learning to Act
 
 ### Key Messages
 
-* Question the fundamentels of your Research
-    * if your primary goal is *not* the Phd Thesis
-* Distinction between supervised / unsupervised learning is ill-defined
-* *natural supervision*, that is explore free labels should be explored more E.g. use:
-    * Temporal Information
-    * Motation
-    * Multi-Modality (multiple sensors)
+* Reinforcement Learning 
+   * Reinforcement learning is learning what to do - how to map situations to actions - so as to maximise a numerical reward signal.
+* Why is it called Reinforcement ? —> Conditioned reflexes - Pavlov 1927
+   * reward and punishment 
+   * History (Pavlov and the dog , Skinner and pigeons - behaviorism -> animal behavior can be explained in terms of conditioning)
+
+* Natural Supervision Example
+   * act and observe the consequences
+   * learn to predict the consequences of actions
+   * Learn to map observarion x action -> future observation
+
+
+* LEARNING TO ACT  (Markov decition proces)
+* Problems:
+    * State - “Grid world” don’t work with 3D real world situations (“perspective”)
+    * Reward - “What is the reward for life?”, 
+    * Discounting - Its extremely aggressive. In reality you can chose something with smaller discount
+    * Markov Assumption - No history
 
 
 [comment]: <> (![](https://i.imgur.com/JdG4etm.jpg)
