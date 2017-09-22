@@ -49,7 +49,7 @@ Emilio Frazzoli            |  Title
     * Controlled Environoment
 * *Levels* of autonomy is misleading
     * OEMs try to increasy autonomy step by step
-    * MaaS approach allows to unroll by scaling up the scope
+    * MaaS (AVs as a service (MaaS)) approach allows to unroll by scaling up the scope
 * Utilize prior Knowledge where applicable
     * *Rules of the Road* don't need to be learned
     * Use formal logic for decision making
